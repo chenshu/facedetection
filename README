@@ -1,1 +1,3 @@
 Face Detection in Static Images with Python
+
+sudo apt-get install python-opencv libcv-dev
